@@ -1,0 +1,7 @@
+========== TEST RESULTS ==========
+Test slices        : 1566
+Test patients      : 10
+Slice-level Dice   : 94.48% (+/- 7.64)
+Slice-level IoU    : 90.26% (+/- 10.19)
+Patient-level Dice : 95.64% (+/- 1.58)
+==================================
